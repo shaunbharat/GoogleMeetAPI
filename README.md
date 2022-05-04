@@ -49,7 +49,7 @@ async function command(client, message) {
 })()
 
 /*
- Async/await syntax is required if you need to execute specific actions with Puppteer or don't want to be limited to only the events already implemented.
+ Async/await syntax is required if you need to execute specific actions with Puppeteer or don't want to be limited to only the events already implemented.
 */
 
 // If errors like "Node is detached" get thrown, restarting almost always fixes most errors
