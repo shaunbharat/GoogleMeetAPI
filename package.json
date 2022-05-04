@@ -1,0 +1,16 @@
+{
+  "name": "googlemeetapi",
+  "version": "1.0.0",
+  "description": "A Javascript package for interacting with a Google Meet, using Puppeteer.",
+  "main": "meet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaun Bharat",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.7.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
