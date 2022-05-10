@@ -3,10 +3,8 @@
 
 ## Install
 
-At the moment there's no npm package. So to use this package, just clone the git repository and `require()` it in your code.
-
 ```bash
-git clone https://github.com/ShaunB56/GoogleMeetAPI.git
+npm install @shaunb19/google-meet-api
 ```
 
 ## Usage
