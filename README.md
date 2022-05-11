@@ -1,6 +1,37 @@
 # GoogleMeetAPI
  A Javascript package for interacting with a Google Meet, using Puppeteer.
 
+## Features
+
+I have not written documentation for this package, but here is a quick list of some things that can be done with this package.
+
+- Sending Messages
+- Reading Messages
+- Handling Member Joins and Leaves
+- Toggling Microphone and Video
+
+The following are main functions:
+
+```javascript
+client.sendMessage();
+
+client.chatEnabled();
+
+client.toggleMic();
+
+client.toggleVideo();
+```
+
+The following events are emitted:
+
+```javascript
+client.on('message', () => {});
+
+client.on('memberJoin', () => {});
+
+client.on('memberLeave', () => {});
+```
+
 ## Install
 
 ```bash
