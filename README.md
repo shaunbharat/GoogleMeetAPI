@@ -1,16 +1,21 @@
 # GoogleMeetAPI
- A Javascript package for interacting with a Google Meet, using Puppeteer.
+A Javascript package for interacting with a Google Meet, using Puppeteer.
+ - [GitHub Repository](https://github.com/ShaunB56/GoogleMeetAPI)
+ - [NPM Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
+ - [Documentation](https://shaunb56.github.io/GoogleMeetAPI)
 
 ## Features
 
 I have not written documentation for this package, but here is a quick list of some things that can be done with this package.
 
-- Sending Messages
-- Reading Messages
-- Handling Member Joins and Leaves
-- Toggling Microphone and Video
+#### Quick List of Features
 
-The following are main functions:
+\- Sending Messages <br>
+\- Reading and Handling Messages <br>
+\- Handling Member Joins and Leaves <br>
+\- Toggling Microphone and Video <br>
+
+#### Main Functions
 
 ```javascript
 client.sendMessage();
@@ -22,7 +27,7 @@ client.toggleMic();
 client.toggleVideo();
 ```
 
-The following events are emitted:
+#### Events
 
 ```javascript
 client.on('message', () => {});
