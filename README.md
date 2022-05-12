@@ -1,7 +1,7 @@
 # GoogleMeetAPI
 A Javascript package for interacting with a Google Meet, using Puppeteer.
  - [GitHub Repository](https://github.com/ShaunB56/GoogleMeetAPI)
- - [NPM Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
+ - [npm Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
  - [Documentation](https://shaunb56.github.io/GoogleMeetAPI)
 
 ## Features
