@@ -1,21 +1,23 @@
 # GoogleMeetAPI
+
 A Javascript package for interacting with a Google Meet, using Puppeteer.
- - [GitHub Repository](https://github.com/ShaunB56/GoogleMeetAPI)
- - [npm Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
- - [Documentation](https://shaunb56.github.io/GoogleMeetAPI)
+
+- [GitHub Repository](https://github.com/shaunbharat/GoogleMeetAPI)
+- [npm Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
+- [Documentation](https://shaunbharat.github.io/GoogleMeetAPI)
 
 ## Features
 
 I have not written documentation for this package, but here is a quick list of some things that can be done with this package.
 
-#### Quick List of Features
+### Quick List of Features
 
-\- Sending Messages <br>
-\- Reading and Handling Messages <br>
-\- Handling Member Joins and Leaves <br>
-\- Toggling Microphone and Video <br>
+- Sending Messages
+- Reading and Handling Messages
+- Handling Member Joins and Leaves
+- Toggling Microphone and Video
 
-#### Main Functions
+### Main Functions
 
 ```javascript
 client.sendMessage();
@@ -27,7 +29,7 @@ client.toggleMic();
 client.toggleVideo();
 ```
 
-#### Events
+### Events
 
 ```javascript
 client.on('message', () => {});
@@ -91,6 +93,6 @@ async function command(client, message) {
 
 ## License
 
-Copyright © 2022 [Shaun Bharat](https://github.com/ShaunB56).
+Copyright © 2022 [Shaun Bharat](https://github.com/shaunbharat).
 
-This project is licensed with the [MIT](https://github.com/ShaunB56/GoogleMeetAPI/blob/main/LICENSE) license.
+This project is licensed with the [MIT](https://github.com/shaunbharat/GoogleMeetAPI/blob/main/LICENSE) license.

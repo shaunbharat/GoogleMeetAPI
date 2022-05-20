@@ -13,11 +13,11 @@
     "google-meet-bot",
     "google-meet-api"
   ],
-  "homepage": "https://github.com/ShaunB56/GoogleMeetAPI#readme",
-  "bugs": "https://github.com/ShaunB56/GoogleMeetAPI/issues",
+  "homepage": "https://github.com/shaunbharat/GoogleMeetAPI#readme",
+  "bugs": "https://github.com/shaunbharat/GoogleMeetAPI/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShaunB56/GoogleMeetAPI.git"
+    "url": "https://github.com/shaunbharat/GoogleMeetAPI.git"
   },
   "license": "MIT",
   "author": "Shaun Bharat",
