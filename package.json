@@ -1,6 +1,6 @@
 {
   "name": "@shaunbharat/google-meet-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Javascript package for interacting with a Google Meet, using Puppeteer.",
   "keywords": [
     "google",
