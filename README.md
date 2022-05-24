@@ -3,7 +3,7 @@
 A Javascript package for interacting with a Google Meet, using Puppeteer.
 
 - [GitHub Repository](https://github.com/shaunbharat/GoogleMeetAPI)
-- [npm Package](https://www.npmjs.com/package/@shaunb19/google-meet-api)
+- [npm Package](https://www.npmjs.com/package/@shaunbharat/google-meet-api)
 - [Documentation](https://shaunbharat.github.io/GoogleMeetAPI)
 
 ## Features
@@ -42,7 +42,7 @@ client.on('memberLeave', () => {});
 ## Install
 
 ```bash
-npm install @shaunb19/google-meet-api
+npm install @shaunbharat/google-meet-api
 ```
 
 ## Usage
